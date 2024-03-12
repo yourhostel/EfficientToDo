@@ -1,0 +1,6 @@
+@import "styles/mixin";
+.Wrapper{
+  @include flex-center;
+  flex-direction: column;
+  width: 100%;
+}
